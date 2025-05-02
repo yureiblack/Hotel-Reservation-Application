@@ -1,4 +1,5 @@
 🏨 Hotel Reservation App
+
 Book hotels with ease, privacy, and convenience.
 
 The Hotel Reservation App is a seamless, privacy-focused platform that allows users to explore and book hotels in any state and city across the country. With an intuitive user interface and robust backend support, users can make anonymous reservations and handle check-ins and check-outs with a simple QR code scan.
