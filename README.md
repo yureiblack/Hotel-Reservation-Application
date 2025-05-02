@@ -1,3 +1,30 @@
+🏨 Hotel Reservation App
+Book hotels with ease, privacy, and convenience.
+
+The Hotel Reservation App is a seamless, privacy-focused platform that allows users to explore and book hotels in any state and city across the country. With an intuitive user interface and robust backend support, users can make anonymous reservations and handle check-ins and check-outs with a simple QR code scan.
+
+✨ Key Features
+🔍 Browse by Location: Choose your desired state and city to view available hotels.
+
+🏠 Instant Booking: Reserve your room in seconds—no login or personal details required.
+
+🕵️ Anonymous Booking: Enjoy complete privacy—no account, no email, no hassle.
+
+📱 QR Code Check-In/Out: Scan your unique QR code to check in and check out of the hotel securely and contactlessly.
+
+💬 Hotel Reviews: Browse real user reviews to find the best stay experience.
+
+🚀 Why Use This App?
+Ideal for quick stays, private trips, or spontaneous travel.
+
+Ensures user anonymity without compromising on functionality.
+
+Makes hotel management more efficient with automated check-in/out systems.
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
